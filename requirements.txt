@@ -1,22 +1,10 @@
-# Core Libraries
-numpy==1.23.5
-pandas==1.5.3
+Flask==2.3.2
 matplotlib==3.6.2
-seaborn==0.12.2
-
-# Deep Learning Framework
+numpy==2.2.3
+pandas==1.5.3
+Pillow==9.5.0
+Pillow==11.1.0
+scikit_learn==1.2.2
+seaborn==0.13.2
 torch==1.13.1
 torchvision==0.14.1
-
-# Data Handling and Utilities
-scikit-learn==1.2.2
-Pillow==9.5.0
-
-# Deployment
-flask==2.3.2
-
-# Optional: For Jupyter Notebooks (if used)
-jupyterlab==3.6.4
-
-# Additional Utilities
-tqdm==4.65.0
