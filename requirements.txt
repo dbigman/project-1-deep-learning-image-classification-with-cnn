@@ -2,9 +2,15 @@ Flask==2.3.2
 matplotlib==3.6.2
 numpy==2.2.3
 pandas==1.5.3
-Pillow==9.5.0
 Pillow==11.1.0
 scikit_learn==1.2.2
 seaborn==0.13.2
 torch==1.13.1
 torchvision==0.14.1
+tensorflow==2.18.0
+os==0.1.1
+datetime==0.1.1
+glob==0.1.1
+icecream==2.1.4
+
+
