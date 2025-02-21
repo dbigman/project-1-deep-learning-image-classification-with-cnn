@@ -2,6 +2,10 @@
 # Python
 # ==============================
 
+# models
+*.keras
+*.h5
+
 # images 
 data/raw-img/
 
